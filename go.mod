@@ -1,4 +1,4 @@
-module github.com/logica0419/resigif
+module github.com/Mistium/resigif
 
 go 1.24.0
 
